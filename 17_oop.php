@@ -25,9 +25,9 @@ class User {
   }
 
   // Methods are functions that belong to a class.
-  // function setName() {
-  //   $this->name = $name;
-  // }
+  function setName($name) {
+    $this->name = $name;
+  }
 
   function getName() {
     return $this->name;

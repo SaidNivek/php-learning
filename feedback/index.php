@@ -1,4 +1,5 @@
 <?php include 'includes/header.php'; ?>
+
     <img src="/feedback/img/logo.png" class="w-25 mb-3" alt="">
     <h2>Feedback</h2>
     <p class="lead text-center">Leave feedback for Traversy Media</p>
