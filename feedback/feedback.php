@@ -22,7 +22,7 @@
    ],
   ]
 ?>
-
+<!-- If using the database, which is not connecting, need to troubleshoot this -->
 <?php 
   $sql = 'SELECT * FROM feedback';
   $result = mysqli_query($conn, $sql);
